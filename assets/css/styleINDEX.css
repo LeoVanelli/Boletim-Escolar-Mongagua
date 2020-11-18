@@ -1,0 +1,110 @@
+input {
+  outline: none;
+  border: none;
+}
+
+button {
+  outline: none !important;
+  border: none;
+  background: transparent;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.fundo {
+  width: 100%;  
+  min-height: 95vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background: #2e3338;
+}
+
+.boxLogin {
+  width: 390px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 20px 55px 33px 55px;
+  margin-top: 3%;
+  box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.boxTitulo {
+  width: 100%;
+}
+
+.txtTitulo { 
+  display: block; 
+  font-size: 30px;
+  line-height: 1.2; 
+  text-align: center; 
+  padding-bottom: 26px;
+}
+
+.boxInput {
+  width: 100%;
+  position: relative;
+  border-bottom: 2px solid #adadad;
+  margin-bottom: 37px;
+}
+
+.input {
+  font-size: 15px;
+  color: black;
+  line-height: 1.2;
+
+  display: block;
+  width: 100%;
+  height: 45px;
+  background: transparent;
+  padding: 0 5px;
+}
+
+.boxButton {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 13px;
+}
+
+.button {
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+
+  background: #b5dff5;
+
+  font-size: 15px;
+  color: black;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background: #b5f5d6;
+  transition: 1s;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+.data {
+  width: 21%;
+  
+}
