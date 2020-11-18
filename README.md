@@ -1,0 +1,2 @@
+# Boletim-Escolar-Mongagua
+TCC do curso de Desenvolvimento de Sistemas, tendo como foco um sistema capaz de fazer com que alunos visualizem suas notas, professores possam inserir rapidamente as notas dos alunos, secretários tenham uma administração prática dos dados de seus alunos e funcionários da escola, e o administrador (Departamento de Educação) possa gerar relatórios do que ocorre na escola.
